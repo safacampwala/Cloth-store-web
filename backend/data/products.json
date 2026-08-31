@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Gradient Graphic T-shirt",
+    "price": 145,
+    "category": "T-Shirts",
+    "color": "White",
+    "image": "product1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Checkered Shirt",
+    "price": 180,
+    "category": "Shirts",
+    "color": "Red",
+    "image": "product2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Skinny Fit Jeans",
+    "price": 240,
+    "category": "Jeans",
+    "color": "Blue",
+    "image": "product3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Casual Hoodie",
+    "price": 220,
+    "category": "Hoodies",
+    "color": "Black",
+    "image": "product4.jpg"
+  }
+]
